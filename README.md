@@ -12,12 +12,10 @@
 
 ### Skills
 
-<p>
-  Bootstrap | Clean Architecture | CSS | Docker | Flutter | Git |
-  Hardware | HTML | JavaScript | Laravel | Linux | MySQL | NoSQL |
-  Node.js | PHP | PostgreSQL | React.js | React Native | SOLID | TDD
-  | TypeScript | Unreal Engine
-</p>
+Bootstrap | Clean Architecture | CSS | Docker | Flutter | Git |
+Hardware | HTML | JavaScript | Laravel | Linux | MySQL | NoSQL |
+Node.js | PHP | PostgreSQL | React.js | React Native | SOLID | TDD
+| TypeScript | Unreal Engine
 
 ### Contact
 
