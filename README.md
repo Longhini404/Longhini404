@@ -12,15 +12,12 @@
 
 ### Skills
 
-Bootstrap | Clean Architecture | CSS | Docker | Flutter | Git |
-Hardware | HTML | JavaScript | Laravel | Linux | MySQL | NoSQL |
-Node.js | PHP | PostgreSQL | React.js | React Native | SOLID | TDD
-| TypeScript | Unreal Engine
+Bootstrap | Clean Architecture | CSS | Docker | Git | Hardware | HTML | JavaScript | Laravel | Linux | MVC architecture | MySQL | NoSQL | Node.js | PHP | PostgreSQL | React.js | React Native | SOLID | TDD | Tailwind CSS | TypeScript | Unreal Engine | Vue.js
 
 ### Contact
 
 - E-mail: guilherme.longhini@gmail.com
-- WhatsApp: (+55) 44 98847-3908
+- WhatsApp: (55) 44 98847-3908
 
 ### Experience
 
@@ -40,7 +37,8 @@ Node.js | PHP | PostgreSQL | React.js | React Native | SOLID | TDD
 
 ### Summary
 
-Full Stack Developer with experience in web development, specializing in Database and technologies such as TypeScript in conjunction with React and Node.js, passionate about Clean Architecture, SOLID, and TDD.
+Full Stack Developer experienced in web development, specializing in Database, proficient in technologies such as TypeScript (React and Node.js), Laravel, and Vue.js,
+passionate about Clean Architecture, Clean Code, SOLID, and TDD.
 
 ### Languages
 
