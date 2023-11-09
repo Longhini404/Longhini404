@@ -12,7 +12,7 @@
 
 ### Skills
 
-Bootstrap | Clean Architecture | CSS | Docker | Git | Hardware | HTML | JavaScript | Laravel | Linux | MVC architecture | MySQL | NoSQL | Node.js | PHP | PostgreSQL | React.js | React Native | SOLID | TDD | Tailwind CSS | TypeScript | Unreal Engine | Vue.js
+Bootstrap | Clean Architecture | CSS | Docker | Git | Hardware | HTML | JavaScript | Jest | Laravel | Linux | MVC Architecture | MySQL | NoSQL | Node.js | PHP | PostgreSQL | React.js | React Native | SOLID | TDD | Tailwind CSS | TypeScript | Unreal Engine | Vue.js
 
 ### Contact
 
@@ -22,8 +22,14 @@ Bootstrap | Clean Architecture | CSS | Docker | Git | Hardware | HTML | JavaScri
 ### Experience
 
 - **Gazin Tech** (2 years)
+  - **Responsibilities:**
+    - Development of the TLG | Transportation and Logistics Gazin website/system 
 - **Vivaweb** (1 year)
+  - **Responsibilities:**
+    - Development of the Vivaintra | Corporate Social Network website/system 
 - **Plenus** (Internship)
+  - **Responsibilities:**
+    - Development of websites/systems for municipal councils and municipal offices. 
 
 ### Education
 
@@ -37,8 +43,7 @@ Bootstrap | Clean Architecture | CSS | Docker | Git | Hardware | HTML | JavaScri
 
 ### Summary
 
-Full Stack Developer experienced in web development, specializing in Database, proficient in technologies such as TypeScript (React and Node.js), Laravel, and Vue.js,
-passionate about Clean Architecture, Clean Code, SOLID, and TDD.
+Full Stack Developer experienced in web development, specializing in Database, proficient in technologies such as TypeScript (React and Node.js), Laravel, and Vue.js, passionate about Clean Architecture, Clean Code, SOLID, and TDD.
 
 ### Languages
 
