@@ -22,14 +22,14 @@ Bootstrap | Clean Architecture | CSS | Docker | Git | Hardware | HTML | JavaScri
 ### Experience
 
 - **Gazin Tech** (2 years)
-  - **Responsibilities:**
-    - Development of the TLG | Transportation and Logistics Gazin website/system 
+**Responsibilities:**
+Development of the TLG | Transportation and Logistics Gazin website/system 
 - **Vivaweb** (1 year)
-  - **Responsibilities:**
-    - Development of the Vivaintra | Corporate Social Network website/system 
+**Responsibilities:**
+Development of the Vivaintra | Corporate Social Network website/system 
 - **Plenus** (Internship)
-  - **Responsibilities:**
-    - Development of websites/systems for municipal councils and municipal offices. 
+**Responsibilities:**
+Development of websites/systems for municipal councils and municipal offices. 
 
 ### Education
 
