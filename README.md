@@ -29,8 +29,8 @@ Bootstrap, Clean Architecture, CSS, Docker, Git, Hardware, HTML, JavaScript, Jes
 ### Education
 
 - **FAMEESP:** Postgraduate - Database Administration (2023)
-- **UNICESUMAR:** Technologist - Systems Analysis and Development (2021)
-- **CITY COMPUTER:** Technician- Game Programmer and Developer (2018)
+- **UNICESUMAR:** Graduate - Systems Analysis and Development (2021)
+- **CITY COMPUTER:** Technician - Game Programmer and Developer (2018)
 
 ### Certifications
 
