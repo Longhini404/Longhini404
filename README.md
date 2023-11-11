@@ -39,7 +39,7 @@ Bootstrap, Clean Architecture, CSS, Docker, Git, Hardware, HTML, JavaScript, Jes
 
 ### Events
 
-- **Hackathon NASA Space Apps Challenge**: Mentor
+- **Hackathon NASA**: Mentor
 - **DevParaná Conference**: Collaborator
 
 ### Summary
