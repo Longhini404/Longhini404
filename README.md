@@ -10,7 +10,7 @@
 
 ### Skills
 
-Bootstrap, Clean Architecture, CSS, Docker, Git, Hardware, HTML, JavaScript, Jest, Laravel, Linux, MVC Architecture, MySQL, NoSQL, Node.js, PHP, PostgreSQL, React.js, React Native, SOLID, TDD, Tailwind CSS, TypeScript, Unreal Engine, Vue.js
+Bootstrap, Clean Architecture, CSS, Docker, Git, Hardware, HTML, JavaScript, Jest, Laravel, Linux, MVC Architecture, MySQL, NoSQL, Node.js, PHP, PostgreSQL, React.js, React Native, SOLID, TDD, Tailwind CSS, TypeScript, Unreal Engine, Vite, Vue.js
 
 ### Contact
 
@@ -44,7 +44,9 @@ Bootstrap, Clean Architecture, CSS, Docker, Git, Hardware, HTML, JavaScript, Jes
 
 ### Summary
 
-Full Stack Developer experient in web development, specializing in Database, proficient in technologies such as TypeScript (React and Node.js), Laravel, and Vue.js, passionate about Clean Architecture, Clean Code, SOLID, and TDD.
+Full Stack Developer experient in web development, specializing in
+Database, proficient in technologies such as JavaScript/TypeScript
+(React and Node.js) PHP Laravel, Vite and Vue.js.
 
 ### Languages
 
