@@ -19,6 +19,8 @@ Bootstrap, Clean Architecture, CSS, Docker, Git, Hardware, HTML, JavaScript, Jes
 
 ### Experience
 
+- **Runy.me** (Since 11/2023)  
+  Development of the Runy.me accounting platform
 - **Gazin Tech** (2 years)  
   Development of the TLG | Transportation and Logistics Gazin website/system
 - **Vivaweb** (1 year)  
