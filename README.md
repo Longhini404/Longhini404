@@ -26,7 +26,7 @@ Bootstrap, Clean Architecture, CSS, Docker, Git, Hardware, HTML, JavaScript, Jes
 - **Vivaweb** (1 year)  
   Development of the Vivaintra | Corporate Social Network website/system
 - **Plenus** (Internship)  
-  Development of websites/systems for municipal councils and municipal offices.
+  Development of websites/systems for municipal councils and municipal offices
 
 ### Education
 
