@@ -2,7 +2,7 @@
 
 ## Full Stack Developer
 
-[GitHub](https://www.github.com/Longhini404/) | [LinkedIn](https://www.linkedin.com/in/guilherme-longhini/)
+[GitHub](https://www.github.com/longhini404/) | [LinkedIn](https://www.linkedin.com/in/longhini404)
 
 - Web Developer
 - Mobile Developer
