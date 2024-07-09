@@ -19,13 +19,13 @@ Bootstrap, Clean Architecture, CSS, Docker, Git, Hardware, HTML, JavaScript, Jes
 
 ### Experience
 
-- **Institute of Development, Research and Innovation** (6 months)
+- **Institute of Development, Research and Innovation** (6 months) <br>
   Responsible for the development of educational websites/systems for municipalities in Rio de Janeiro
-- **Gazin Tech** (2 years)
+- **Gazin Tech** (2 years) <br>
   Development of the TLG | Transportation and Logistics Gazin website/system
-- **Vivaweb** (1 year)
+- **Vivaweb** (1 year) <br>
   Development of the Vivaintra | Corporate Social Network website/system
-- **Plenus** (Internship)  
+- **Plenus** (Internship) <br>
   Development of websites/systems for municipal councils and municipal offices
 
 ### Education
