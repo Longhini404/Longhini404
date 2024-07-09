@@ -19,10 +19,8 @@ Bootstrap, Clean Architecture, CSS, Docker, Git, Hardware, HTML, JavaScript, Jes
 
 ### Experience
 
-- **Institute of Development, Research and Innovation** (Since 04/2024)
-  Development of educational websites/systems
-- **Runy.me** (6 months)
-  Development of websites/systems for accounting
+- **Institute of Development, Research and Innovation** (Since 02/2024)
+  Responsible for the development of educational websites/systems for municipalities in Rio de Janeiro
 - **Gazin Tech** (2 years)
   Development of the TLG | Transportation and Logistics Gazin website/system
 - **Vivaweb** (1 year)
