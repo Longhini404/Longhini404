@@ -19,6 +19,8 @@ Bootstrap, Clean Architecture, CSS, Docker, Git, Hardware, HTML, JavaScript, Jes
 
 ### Experience
 
+- **Vivaworks** (Since 07/2024) <br>
+  Mid-Level Developer
 - **Institute of Development, Research and Innovation** (6 months) <br>
   Responsible for the development of educational websites/systems for municipalities in Rio de Janeiro
 - **Gazin Tech** (2 years) <br>
