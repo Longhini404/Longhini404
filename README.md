@@ -10,7 +10,7 @@
 
 ### Skills
 
-Bootstrap, Clean Architecture, CSS, Docker, Git, Hardware, HTML, JavaScript, Jest, Laravel, Linux, MVC Architecture, MySQL, NoSQL, Node.js, PHP, PostgreSQL, React.js, React Native, SOLID, TDD, Tailwind CSS, TypeScript, Unreal Engine, Vite, Vue.js
+Bootstrap, Clean Architecture, CSS, Docker, Flutter, Git, Hardware, HTML, JavaScript, Jest, Laravel, Linux, MVC Architecture, MySQL, NoSQL, Node.js, PHP, PostgreSQL, React.js, React Native, SOLID, TDD, Tailwind CSS, TypeScript, Unreal Engine, Vite, Vue.js
 
 ### Contact
 
@@ -27,8 +27,6 @@ Bootstrap, Clean Architecture, CSS, Docker, Git, Hardware, HTML, JavaScript, Jes
   Development of the TLG | Transportation and Logistics Gazin website/system
 - **Vivaweb** (1 year) <br>
   Development of the Vivaintra | Corporate Social Network website/system
-- **Plenus** (Internship) <br>
-  Development of websites/systems for municipal councils and municipal offices
 
 ### Education
 
@@ -50,7 +48,7 @@ Bootstrap, Clean Architecture, CSS, Docker, Git, Hardware, HTML, JavaScript, Jes
 
 Full Stack Developer experient in web development, specializing in
 Database, proficient in technologies such as JavaScript/TypeScript
-(React and Node.js) PHP Laravel, Vite and Vue.js.
+(React and Node.js) Flutter, PHP Laravel, Vite and Vue.js.
 
 ### Languages
 
