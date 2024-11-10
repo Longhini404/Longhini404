@@ -1,8 +1,8 @@
-# Guilherme Longhini
+# Guilherme Augusto
 
 ## Full Stack Developer
 
-[GitHub](https://www.github.com/longhini404/) | [LinkedIn](https://www.linkedin.com/in/longhini404)
+[GitHub](https://www.github.com/avgusto404/) | [LinkedIn](https://www.linkedin.com/in/avgusto404)
 
 - Web Developer
 - Mobile Developer
