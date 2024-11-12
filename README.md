@@ -2,7 +2,7 @@
 
 ## Full Stack Developer
 
-[GitHub](https://www.github.com/avgusto404/) | [LinkedIn](https://www.linkedin.com/in/avgusto404)
+[GitHub](https://www.github.com/nicolayevsk/) | [LinkedIn](https://www.linkedin.com/in/nicolayevsk)
 
 - Web Developer
 - Mobile Developer
