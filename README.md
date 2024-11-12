@@ -14,7 +14,7 @@ Bootstrap, Clean Architecture, CSS, Docker, Flutter, Git, Hardware, HTML, JavaSc
 
 ### Contact
 
-- E-mail: guilherme.longhini@gmail.com
+- E-mail: guilhermelonghini@gmail.com
 - WhatsApp: +55 (44) 98847-3908
 
 ### Experience
