@@ -2,7 +2,7 @@
 
 ## Full Stack Developer
 
-[GitHub](https://www.github.com/nicolayevsk/) | [LinkedIn](https://www.linkedin.com/in/nicolayevsk)
+[GitHub](https://www.github.com/nikolayevsk404/) | [LinkedIn](https://www.linkedin.com/in/nikolayevsk404)
 
 - Web Developer
 - Mobile Developer
